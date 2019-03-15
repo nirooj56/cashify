@@ -1,16 +1,15 @@
 # cashmoney
 
-A Simple Book-Keeping app to manage your cash flow.
+A Simple Book-Keeping app to manage your cash flow. Nothing Fancy stuff!
 
-## Getting Started
+## Developer Info
 
-This project is a starting point for a Flutter application.
+    Name: Nirooj Bista
+    Website: http://www.nirojbista.com.np
+    E-mail: info@nirojbista.com.np
+    Facebook - Twitter - Linkedin
 
-A few resources to get you started if this is your first Flutter project:
+## License
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+License</br>
+MIT. Copyright (c) Nirooj Bista.
