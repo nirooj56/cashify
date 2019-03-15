@@ -11,13 +11,8 @@
 <p align="center">A Simple Book-Keeping mobile app to manage your cash flow. Nothing Fancy stuff!</p>
 
 
-## Contact
+## Developer Info
 
-* **Homepage**: www.nepdict.com/
-* **E-Mail**: info@nepdict.com
-* **Facebook**: [Nepdict](http://www.facebook.com/nepdict)
-* **Twitter**: [Nepdict](http://www.twitter.com/nepdict)
-  * // Developer Info //
 * **Name**: Nirooj Bista
 * **Website**: http://www.nirojbista.com.np
 * **E-mail**: info@nirojbista.com.np
