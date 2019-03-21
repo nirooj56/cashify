@@ -46,7 +46,7 @@ void _showDialog(context) {
     builder: (BuildContext context) {
       return AlertDialog(
           shape: RoundedRectangleBorder(
-              borderRadius: BorderRadius.all(Radius.circular(32.0))),
+              borderRadius: BorderRadius.all(Radius.circular(10.0))),
           contentPadding: EdgeInsets.only(top: 10.0),
           content: Container(
             width: 300.0,
@@ -59,14 +59,13 @@ void _showDialog(context) {
                   mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                   mainAxisSize: MainAxisSize.min,
                   children: <Widget>[
-                    Text(
-                      "Add a new Company",
-                      style: TextStyle(fontSize: 20.0),
-                    ),
+                    Padding(
+                        padding: EdgeInsets.only(top: 4.0, bottom: 10.0),
+                        child: new Text(
+                          "Add a new Company",
+                          style: TextStyle(fontSize: 20.0),
+                        )),
                   ],
-                ),
-                SizedBox(
-                  height: 5.0,
                 ),
                 Divider(
                   color: Colors.grey,
@@ -89,8 +88,8 @@ void _showDialog(context) {
                       decoration: BoxDecoration(
                         color: myColor,
                         borderRadius: BorderRadius.only(
-                            bottomLeft: Radius.circular(32.0),
-                            bottomRight: Radius.circular(32.0)),
+                            bottomLeft: Radius.circular(10.0),
+                            bottomRight: Radius.circular(10.0)),
                       ),
                       child: Row(
                         children: <Widget>[
