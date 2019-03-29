@@ -13,7 +13,8 @@ environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
 
 dependencies:
-  fluro: "^1.4.0"
+  fluro: "^1.4.0" #For Routing
+  bubble_tab_indicator: "^0.1.4" #For integrating Tab in the App
   flutter:
     sdk: flutter
 
@@ -78,18 +79,14 @@ flutter:
   #       - asset: fonts/TrajanPro_Bold.ttf
   #         weight: 700
   fonts:
-  - family: Poppins
+  - family: Comfortaa
     fonts:
-    - asset: assets/fonts/Poppins-Medium.ttf
-      weight: 400
-    - asset: assets/fonts/Poppins-Regular.ttf
+    - asset: assets/fonts/Comfortaa-Regular.ttf
       weight: 500
-    - asset: assets/fonts/Poppins-SemiBold.ttf
+    - asset: assets/fonts/Comfortaa-Bold.ttf
       weight: 600
-    - asset: assets/fonts/Poppins-Light.ttf
+    - asset: assets/fonts/Comfortaa-Light.ttf
       weight: 300
-    - asset: assets/fonts/Poppins-Thin.ttf
-      weight: 200
 
   # For details regarding fonts from package dependencies,
   # see https://flutter.io/custom-fonts/#from-packages

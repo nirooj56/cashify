@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:cashmoney/ui/home/GradientAppBar.dart';
 import 'package:cashmoney/ui/home/PlanetList.dart';
+//import 'package:cashmoney/ui/settings/settings.dart' as Settings;
 
 String value = "";
 TextEditingController textController = TextEditingController();

@@ -12,30 +12,12 @@ class PlanetRow extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    /*final planetThumbnail = new Container(
-      alignment: new FractionalOffset(0.0, 0.5),
-      margin: const EdgeInsets.only(left: 24.0),
-      child: new Hero(
-        tag: 'planet-icon-${planet.id}',
-        child: new Image(
-          image: new AssetImage(planet.image),
-          height: Theme.Dimens.planetHeight,
-          width: Theme.Dimens.planetWidth,
-        ),
-      ),
-    );*/
-
     final planetCard = new Container(
       margin: const EdgeInsets.only(left: 10.0, right: 10.0),
       decoration: new BoxDecoration(
         color: Theme.Colors.planetCard,
         shape: BoxShape.rectangle,
         borderRadius: new BorderRadius.circular(8.0),
-        /*boxShadow: <BoxShadow>[
-          new BoxShadow(color: Colors.black,
-            blurRadius: 10.0,
-            offset: new Offset(0.0, 10.0))
-        ],*/
       ),
       child: new Container(
         margin: const EdgeInsets.only(top: 20.0, left: 35.0),
