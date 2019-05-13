@@ -6,6 +6,8 @@ buildscript {
 
     dependencies {
         classpath 'com.android.tools.build:gradle:3.3.2'
+		implementation 'com.google.android.gms:play-services-ads:17.2.0'
+
     }
 }
 

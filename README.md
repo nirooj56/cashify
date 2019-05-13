@@ -10,6 +10,19 @@
 
 <p align="center">A Simple Book-Keeping mobile app to manage your cash flow. Nothing Fancy stuff!</p>
 
+## To-Do's
+
+Create the Project.
+- [x] Initialize the design process
+- [x] Create a Logo
+- [ ] Create required pages
+- [ ] Design the pages
+- [ ] Make the pages work
+- [ ] Fix the Designs which aren't working
+- [ ] Install the app and test it.
+- [ ] Find and Fix the Bugs.
+- [ ] Release it as v1.0.0
+
 
 ## Developer Info
 
