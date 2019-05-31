@@ -1,8 +1,8 @@
 <h1 align="center">
   <br>
-  <img height="256" width="256" src="https://github.com/nirooj56/cashmoney/blob/master/logo.png" alt="Cash Money">
+  <img height="256" width="256" src="https://github.com/nirooj56/cashify/blob/master/logo.png" alt="Cashify">
   <br>
-  Cash Money
+  Cashify
   <br>
   <a href="https://github.com/nirooj56/nepdict/blob/master/Licence"><img src="https://img.shields.io/github/license/nirooj56/nepdict.svg" alt="Release"></a>
   <br>
