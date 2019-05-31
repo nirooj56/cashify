@@ -15,7 +15,7 @@
 Create the Project.
 - [x] Initialize the design process
 - [x] Create a Logo
-- [ ] Create required pages
+- [x] Create required pages
 - [ ] Design the pages
 - [ ] Make the pages work
 - [ ] Fix the Designs which aren't working
