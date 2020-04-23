@@ -33,6 +33,5 @@ Create the Project.
 
 ## License
 
-MIT. Copyright (c) [Nirooj Bista](http://nirojbista.com.np).
-
+GPL-3.0. Copyleft <img src="https://img.icons8.com/ios/15/000000/copyleft.png"/> [Nirooj Bista](https://nirojbista.com.np).
 
