@@ -10,6 +10,9 @@
 
 <p align="center">A Simple Book-Keeping mobile app to manage your cash flow. Nothing Fancy stuff!</p>
 
+## NOTICE
+  This was a Idea that i wanted to create a long time ago. Haven't got around to work on it at all. So consider this project cancelled.
+
 ## To-Do's
 
 Create the Project.
@@ -29,7 +32,6 @@ Create the Project.
 * **Name**: Nirooj Bista
 * **Website**: http://www.nirojbista.com.np
 * **E-mail**: info@nirojbista.com.np
-* **[Facebook](https://www.facebook.com/niroj56) - [Twitter](https://www.twitter.com/nirooj56) - [Google+](https://plus.google.com/+bistanirooj) - [Linkedin](https://www.linkedin.com/in/nirooj56)**
 
 ## License
 
